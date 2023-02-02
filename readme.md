@@ -50,7 +50,7 @@
 
 📄 Know about my experiences [through my CV](https://rxresu.me/jasonkiptoo/jason-kiprono-kiptoo)
 
-🌱 I’m currently developing **a personal portfolio**.
+🌱 I’m currently building **a personal portfolio**.
 
 <!-- ⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹** -->
 
@@ -97,8 +97,8 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
+<!-- | 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
+| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) | -->
 
 
 ### The technologies I used
