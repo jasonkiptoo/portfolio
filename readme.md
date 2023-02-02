@@ -50,9 +50,9 @@
 
 📄 Know about my experiences [through my CV](https://rxresu.me/jasonkiptoo/jason-kiprono-kiptoo)
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+🌱 I’m currently developing **a personal portfolio**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+<!-- ⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹** -->
 
 ### My work
 
